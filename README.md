@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com) AAAAAAAAAAAAAAAAAAAAAAA
-- Live Site URL: (https://your-live-site-url.com) AAAAAAAAAAAAAAAAAAAAAAAAAAA
+- Solution URL: (https://github.com/AlgirdasU/Testimonials-grid-section-main)
+- Live Site URL: (https://marvelous-tanuki-d0f223.netlify.app/)
 
 ## My process
 
@@ -75,8 +75,8 @@ span:hover {
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Algirdas Urbonavicius](https://github.com/AlgirdasU/Testimonials-grid-section-main)
+- Frontend Mentor - [@AlgirdasU](https://www.frontendmentor.io/profile/AlgirdasU)
+- Twitter - [@AlgirdasDdd](https://twitter.com/algirdasddd)
 
 
